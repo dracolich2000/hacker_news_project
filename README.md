@@ -43,6 +43,3 @@ You can modify the vote count threshold by changing the value in the `create_cus
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace "your_username" in the GitHub repository link with your actual GitHub username, and adjust the content as needed. This README provides basic instructions on how to install and use the script, along with information about dependencies and customization options.
